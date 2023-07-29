@@ -1,0 +1,100 @@
+core.command.back /back-
+core.command.backtrack /backtrack
+core.command.clearlag /clearlag
+
+core.command.enchant /enchant
+core.command.enchant.other /enchant prot 1 <target>
+
+core.command.feed /feed
+core.command.feed.other /feed <target>
+
+core.command.fly /fly
+core.command.fly.other /fly <target>
+
+core.command.gms /gamemode c
+core.command.gms.other /gamemode c <target>
+
+core.command.gms /gamemode s
+core.command.gms.other /gamemode s <target>
+
+core.command.glist /glist
+core.command.broadcast /broadcast
+core.command.head /head
+
+core.command.heal /heal
+core.command.heal.other /heal <target>
+
+core.command.kill /kill
+core.command.kill.other /kill <target>
+
+core.command.localbroadcast /localbroadcast
+core.command.lore /lore add /lore remove
+
+core.command.more /more
+core.command.rename /rename
+
+core.command.setmax /setmax
+core.command.viewdistance /viewdistance
+core.command.systemtime /systemtime
+core.command.tp /tp
+core.command.tphere /tphere
+core.command.whois /whois
+
+core.command.permissions /permissions
+core.command.grant /grant
+core.command.grants /grants
+core.grant.<rankName> /grants menu option
+
+core.command.xp.add /xp add
+core.command.xp.remove /xp remove
+core.command.xp.info /xp info
+
+core.command.alts /alts
+core.command.ipclear /ipclear
+
+core.command.staffchat /staffchat
+core.command.adminchat /adminchat
+
+core.command.mutechat /mutechat
+core.mutechat.bypass
+
+core.command.slowchat /slowchat
+core.slowchat.bypass
+
+core.command.modmode /modsuite
+core.modemode.admin
+
+core.command.reports /reports
+core.command.requests /requests
+
+core.command.npc /npc <subcommand>
+
+core.command.ban /ban
+core.command.ban.permanent
+core.command.unban /unban
+ 
+core.command.blacklist /blacklist
+core.command.blacklist.permanent
+core.command.unblacklist /unblacklist
+
+core.command.mute /mute
+core.command.mute.permanent
+core.command.unmute /unmute
+
+core.command.punishments /punishments
+core.command.warn /warn
+
+core.command.warp.create /warp create
+core.command.warp.delete /warp delete
+core.command.warp.tp /warp tp
+core.command.warps /warps
+
+core.command.reboot /reboot & /reboot cancel
+
+core.command.networkdump /network dump
+core.command.networklist /network list
+
+core.command.2fa /2fa & /setup2fa
+core.command.reset2fa /reset2fa
+
+core.command.server /server

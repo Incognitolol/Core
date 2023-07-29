@@ -1,0 +1,6 @@
+name: Core
+version: ${git.commit.id.abbrev}
+main: rip.alpha.core.bukkit.Core
+load: POSTWORLD
+depend: [ LunarClient-API ]
+author: AlphaMC Development Team

@@ -1,0 +1,8 @@
+{
+  "serverInformation": {
+    "id": "serverId",
+    "displayName": "serverName",
+    "serverType": "DEVELOPMENT",
+    "platform": "BUKKIT"
+  }
+}
